@@ -1,0 +1,10 @@
+public static void Main (string[] args)
+        {
+            Console.Write("Olá ");
+            Console.WriteLine("mundo !");
+            Console.Write("Entre com seu nome: ");
+            String nome = Console.ReadLine();
+            Console.Write("Bom Dia, ");
+            Console.Write(nome);
+            Console.WriteLine("!");
+        }
